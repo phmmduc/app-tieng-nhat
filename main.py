@@ -11,5 +11,6 @@ if __name__ == "__main__":
 
     main_window = CuaSoDangNhap()
     main_window.show()
+1j2h3j1h23hj123
 
     sys.exit(app.exec())
