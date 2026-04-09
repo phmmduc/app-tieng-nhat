@@ -10,6 +10,7 @@ if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
 
     main_window = CuaSoDangNhap()
-    main_window.show()
+    main_window.show()123123
+
 
     sys.exit(app.exec())
