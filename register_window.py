@@ -7,7 +7,7 @@ from PyQt5.QtCore import QUrl
 class CuaSoDangKy(QtWidgets.QMainWindow):
     def __init__(self, cua_so_dang_nhap_truoc_do):
         super().__init__()
-        uic.loadUi('/Users/user/Desktop/project/dang ky tai khoan.ui', self)
+        uic.loadUi('dang ky tai khoan.ui', self)
         self.cua_so_dang_nhap = cua_so_dang_nhap_truoc_do
         self.lineEdit_pass_dk.setEchoMode(QtWidgets.QLineEdit.Password)
 
