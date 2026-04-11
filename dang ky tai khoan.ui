@@ -76,7 +76,7 @@
     <item row="1" column="1">
      <widget class="QStackedWidget" name="stackedWidget">
       <property name="currentIndex">
-       <number>0</number>
+       <number>1</number>
       </property>
       <widget class="QWidget" name="page">
        <layout class="QVBoxLayout" name="verticalLayout_4">
@@ -117,7 +117,7 @@
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>../Downloads/z7702842784597_a7481e4e260cbd0163006b422aac0ebb.jpg</pixmap>
+             <pixmap>../../thư mục không có tiêu đề 2/Không có tiêu đề/picture/concu.jpg</pixmap>
             </property>
             <property name="scaledContents">
              <bool>true</bool>
@@ -230,7 +230,7 @@ QPushButton:hover {
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>../Downloads/z7702842784597_a7481e4e260cbd0163006b422aac0ebb.jpg</pixmap>
+             <pixmap>../../thư mục không có tiêu đề 2/Không có tiêu đề/picture/concu.jpg</pixmap>
             </property>
             <property name="scaledContents">
              <bool>true</bool>

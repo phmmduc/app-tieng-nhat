@@ -8,7 +8,8 @@ class CuaSoDangKy(QtWidgets.QMainWindow):
     def __init__(self, cua_so_dang_nhap_truoc_do):
         super().__init__()
         base_dir = os.path.dirname(os.path.abspath(__file__))
-        uic.loadUi(os.path.join(base_dir, "manhinhdangnhap.ui"), self)
+        # ✅ CHUẨN XỊN PHẢI LÀ NHƯ NÀY:
+        uic.loadUi(os.path.join(base_dir, "dang ky tai khoan.ui"), self)
         self.cua_so_dang_nhap = cua_so_dang_nhap_truoc_do
         self.lineEdit_pass_dk.setEchoMode(QtWidgets.QLineEdit.Password)
 
