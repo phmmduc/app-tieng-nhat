@@ -15,6 +15,7 @@ class CuaSoDangNhap(QtWidgets.QMainWindow):
         self.btn_chuyen_trang.clicked.connect(self.mo_cua_so_dang_ky)
         self.btn_dang_nhap.clicked.connect(self.xu_ly_dang_nhap)
 
+
     def xu_ly_dang_nhap(self):
         chuoi_nhap_vao = self.lineEdit_user.text().strip()
         pass_nhap = self.lineEdit_pass.text().strip()

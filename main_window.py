@@ -10,9 +10,10 @@ class CuaSoChinh(QtWidgets.QMainWindow):
         base_dir = os.path.dirname(os.path.abspath(__file__))
         uic.loadUi(os.path.join(base_dir, "mainchinh.ui"), self)
         self.setWindowTitle(f"App Học Tiếng Nhật - こんにちは {ten_nguoi_dung}!")
+        self.showMaximized()
 
         # Load QSS
-        qss_file_path = os.path.join(base_dir, 'style.qss')
+        qss_file_path = os.path.join(base_dir, 'style_main.qss')
         if os.path.exists(qss_file_path):
             with open(qss_file_path, 'r', encoding='utf-8') as f:
                 self.setStyleSheet(f.read())
@@ -30,7 +31,7 @@ class CuaSoChinh(QtWidgets.QMainWindow):
         self.btn_bai10.clicked.connect(lambda: self.pages.setCurrentIndex(10))
 
         # Gắn nút điều hướng dưới cùng
-        self.btn_quiz.clicked.connect(lambda: self.pages.setCurrentIndex(0))
+
         self.btn_truoc.clicked.connect(self.mo_bai_truoc)
         self.btn_tiep.clicked.connect(self.mo_bai_tiep)
         self.btn_dang_xuat.clicked.connect(self.dang_xuat)

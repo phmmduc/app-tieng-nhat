@@ -1,0 +1,99 @@
+/* ================================================= */
+/* 1. NỀN TỔNG THỂ & KHUNG CHÍNH                     */
+/* ================================================= */
+QMainWindow {
+    background-color: #F7F9FA;
+}
+
+/* Khung trắng chứa nội dung bài học */
+#pages {
+    background-color: #FFFFFF;
+    border: 2px solid #E5E7EB;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+/* Tinh chỉnh ô hiển thị văn bản ngữ pháp */
+QTextEdit {
+    border: none;
+    background-color: transparent;
+    font-size: 15px;
+    color: #3C3C3C;
+    line-height: 1.5;
+}
+
+/* ================================================= */
+/* 2. BANNER TOP (XANH DƯƠNG CHỦ ĐẠO)                */
+/* ================================================= */
+#banner_top {
+    background-color: #1CB0F6;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+}
+
+/* ================================================= */
+/* 3. MENU BÀI HỌC BÊN TRÁI (3D TRẮNG - XANH)        */
+/* ================================================= */
+#frame QPushButton {
+    background-color: #FFFFFF;
+    color: #4B5563;
+    font-weight: bold;
+    border: 2px solid #E5E7EB;
+    border-bottom: 4px solid #E5E7EB; /* Tạo khối 3D */
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+#frame QPushButton:hover {
+    background-color: #F0F9FF;
+    color: #1CB0F6;
+    border-color: #1CB0F6;
+    border-bottom-color: #1CB0F6;
+}
+
+#frame QPushButton:pressed {
+    border-bottom: 0px;
+    margin-top: 4px; /* Hiệu ứng lún xuống */
+}
+
+/* ================================================= */
+/* 4. CÁC NÚT ĐIỀU HƯỚNG DƯỚI CÙNG (FOOTER)          */
+/* ================================================= */
+
+/* Nút Bài Tiếp (Xanh dương đặc) */
+#btn_tiep {
+    background-color: #1CB0F6;
+    color: white;
+    border-radius: 12px;
+    padding: 8px 25px;
+    font-weight: bold;
+    border-bottom: 4px solid #1899D6;
+}
+#btn_tiep:hover { background-color: #14C6FF; }
+
+/* Nút Bài Trước (Trắng viền xanh) */
+#btn_truoc {
+    background-color: #FFFFFF;
+    color: #1CB0F6;
+    border: 2px solid #1CB0F6;
+    border-bottom: 4px solid #1CB0F6;
+    border-radius: 12px;
+    padding: 8px 25px;
+    font-weight: bold;
+}
+#btn_truoc:hover { background-color: #F0F9FF; }
+
+/* Nút Đăng xuất (Trắng viền xám - tinh tế) */
+#btn_dang_xuat {
+    background-color: #FFFFFF;
+    color: #AFAFAF;
+    border: 2px solid #E5E7EB;
+    border-bottom: 4px solid #E5E7EB;
+    border-radius: 12px;
+    padding: 8px 15px;
+}
+#btn_dang_xuat:hover { color: #FF4B4B; border-color: #FF4B4B; border-bottom-color: #FF4B4B; }
