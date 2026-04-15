@@ -1,0 +1,122 @@
+{
+  "bai_1": [
+    {"question": "1. 「つもり」dùng để diễn tả gì?", "options": ["Sở thích", "Ý định/Dự định", "Thói quen", "Kinh nghiệm"], "correct_idx": 1, "explanation": "💡 つもり dùng để nói về ý định của bản thân."},
+    {"question": "2. Cấp độ tổ chức nhỏ nhất của thế giới sống là?", "options": ["Mô", "Cơ quan", "Tế bào", "Nguyên tử"], "correct_idx": 2, "explanation": "💡 Tế bào là đơn vị cơ bản cấu tạo nên mọi cơ thể sống."},
+    {"question": "3. Chữ Hán 'Thủy' (nước) có bộ thủ nào?", "options": ["木", "火", "氵", "艹"], "correct_idx": 2, "explanation": "💡 Bộ Thủy (氵) xuất hiện trong các chữ liên quan đến nước."},
+    {"question": "4. Vương quốc Phù Nam có tín ngưỡng đặc trưng nào?", "options": ["Thần Mặt Trời", "Công chúa Rắn", "Thờ cá Ông", "Thờ đá"], "correct_idx": 1, "explanation": "💡 Thờ công chúa Rắn là nét văn hóa đặc trưng của Phù Nam."},
+    {"question": "5. Chào buổi sáng trong tiếng Nhật là gì?", "options": ["Konnichiwa", "Konbanwa", "Ohayou Gozaimasu", "Sayounara"], "correct_idx": 2, "explanation": "💡 Ohayou Gozaimasu dùng cho buổi sáng."},
+    {"question": "6. Nguyên tử có cấu tạo gồm?", "options": ["Hạt nhân và vỏ electron", "Chỉ có Proton", "Chỉ có Neutron", "Hạt nhân và Proton"], "correct_idx": 0, "explanation": "💡 Nguyên tử gồm hạt nhân và vỏ electron."},
+    {"question": "7. Chữ 泳 (Bơi) đọc là gì?", "options": ["Taberu", "Oyogu", "Nomu", "Neru"], "correct_idx": 1, "explanation": "💡 泳ぐ (およぐ) nghĩa là bơi lội."},
+    {"question": "8. Thành phần chính của tế bào nhân sơ là?", "options": ["Màng, chất tế bào, vùng nhân", "Màng, ti thể", "Nhân hoàn chỉnh", "Lục lạp"], "correct_idx": 0, "explanation": "💡 Nhân sơ chưa có màng nhân."},
+    {"question": "9. JLPT có bao nhiêu cấp độ?", "options": ["1", "3", "5", "4"], "correct_idx": 2, "explanation": "💡 JLPT có 5 cấp độ từ N5 đến N1."},
+    {"question": "10. Ai là người tìm ra tế bào đầu tiên?", "options": ["Robert Hooke", "Darwin", "Mendeleev", "Newton"], "correct_idx": 0, "explanation": "💡 Robert Hooke tìm ra tế bào năm 1665."}
+  ],
+  "bai_2": [
+    {"question": "1. Chữ Hán 'Mộc' (cây) là chữ nào?", "options": ["本", "木", "休", "体"], "correct_idx": 1, "explanation": "💡 木 là Mộc (cây)."},
+    {"question": "2. Nước chiếm bao nhiêu % khối lượng cơ thể người?", "options": ["50%", "90%", "70%", "30%"], "correct_idx": 2, "explanation": "💡 Nước chiếm khoảng 70% cơ thể."},
+    {"question": "3. Cách đọc của '私' là gì?", "options": ["Watashi", "Anata", "Kare", "Kanojo"], "correct_idx": 0, "explanation": "💡 私 (Tư) đọc là Watashi (Tôi)."},
+    {"question": "4. Nguyên tố chính cấu tạo nên tế bào?", "options": ["C, H, O, N", "Fe, Cu, Zn", "Au, Ag", "Na, Cl"], "correct_idx": 0, "explanation": "💡 C, H, O, N chiếm 96% khối lượng sống."},
+    {"question": "5. 'Arigatou' nghĩa là gì?", "options": ["Xin chào", "Tạm biệt", "Cảm ơn", "Xin lỗi"], "correct_idx": 2, "explanation": "💡 Arigatou là cảm ơn."},
+    {"question": "6. Chữ 'Học' trong tiếng Nhật là?", "options": ["学", "校", "生", "先"], "correct_idx": 0, "explanation": "💡 学 (Gaku) nghĩa là học."},
+    {"question": "7. Bào quan nào tạo năng lượng cho tế bào?", "options": ["Ti thể", "Lục lạp", "Ribosome", "Lưới nội chất"], "correct_idx": 0, "explanation": "💡 Ti thể thực hiện hô hấp tạo ATP."},
+    {"question": "8. Chữ 'Nhật' (ngày/mặt trời) là?", "options": ["月", "日", "火", "水"], "correct_idx": 1, "explanation": "💡 日 là ngày."},
+    {"question": "9. Giới nấm thuộc kiểu tế bào nào?", "options": ["Nhân sơ", "Nhân thực", "Vi khuẩn", "Virus"], "correct_idx": 1, "explanation": "💡 Nấm là sinh vật nhân thực."},
+    {"question": "10. 1 + 1 (nhị phân) bằng?", "options": ["2", "11", "10", "0"], "correct_idx": 2, "explanation": "💡 Nhị phân 1+1 = 10."}
+  ],
+  "bai_3": [
+    {"question": "1. Chữ 魚 (Ngư) có nghĩa là gì?", "options": ["Chim", "Cá", "Chó", "Mèo"], "correct_idx": 1, "explanation": "💡 魚 (Sakana) nghĩa là Cá."},
+    {"question": "2. Nguyên tử trung hòa về điện vì?", "options": ["Số P = số E", "Số P = số N", "Chỉ có N", "Chỉ có E"], "correct_idx": 0, "explanation": "💡 Proton (+) bằng Electron (-)."},
+    {"question": "3. 'Sayounara' nghĩa là gì?", "options": ["Cảm ơn", "Xin chào", "Tạm biệt", "Hẹn gặp lại"], "correct_idx": 2, "explanation": "💡 Dùng khi tạm biệt lâu dài."},
+    {"question": "4. Chữ 'Kim' (Vàng/Tiền) là chữ nào?", "options": ["金", "銀", "銅", "鉄"], "correct_idx": 0, "explanation": "💡 金 (Kane) là tiền/vàng."},
+    {"question": "5. Đường đơn gồm những loại nào?", "options": ["Glucose, Fructose", "Saccarozo", "Tinh bột", "Glicogen"], "correct_idx": 0, "explanation": "💡 Glucose và Fructose là đường đơn."},
+    {"question": "6. Chữ 'Nguyệt' (Trăng) là?", "options": ["日", "月", "火", "水"], "correct_idx": 1, "explanation": "💡 月 (Tsuki) là mặt trăng."},
+    {"question": "7. Đơn vị đo độ dài trong hệ SI?", "options": ["Km", "Cm", "M", "Mm"], "correct_idx": 2, "explanation": "💡 Mét (m) là đơn vị chuẩn."},
+    {"question": "8. Chữ 'Sơn' (Núi) là chữ nào?", "options": ["川", "山", "田", "石"], "correct_idx": 1, "explanation": "💡 山 (Yama) là núi."},
+    {"question": "9. Protein được cấu tạo từ?", "options": ["Acid amin", "Nucleotide", "Acid béo", "Đường"], "correct_idx": 0, "explanation": "💡 Acid amin là đơn phân của Protein."},
+    {"question": "10. Nhật Bản nằm ở khu vực nào?", "options": ["Đông Á", "Đông Nam Á", "Tây Á", "Nam Á"], "correct_idx": 0, "explanation": "💡 Nhật Bản thuộc Đông Á."}
+  ],
+  "bai_4": [
+    {"question": "1. Chữ 'Xuyên' (Sông) là chữ nào?", "options": ["山", "川", "田", "水"], "correct_idx": 1, "explanation": "💡 川 (Kawa) là sông."},
+    {"question": "2. Virus có cấu tạo tế bào không?", "options": ["Có", "Không", "Tùy loại", "Chỉ có nhân"], "correct_idx": 1, "explanation": "💡 Virus là thực thể chưa có cấu tạo tế bào."},
+    {"question": "3. 'Gohan' nghĩa là gì?", "options": ["Bánh mì", "Cơm", "Nước", "Sữa"], "correct_idx": 1, "explanation": "💡 ご飯 (Gohan) là cơm/bữa ăn."},
+    {"question": "4. Chữ 'Hỏa' (Lửa) là?", "options": ["水", "金", "火", "木"], "correct_idx": 2, "explanation": "💡 火 (Hi) là lửa."},
+    {"question": "5. Ai là tác giả Thuyết tiến hóa?", "options": ["Darwin", "Lamarck", "Mendel", "Morgan"], "correct_idx": 0, "explanation": "💡 Charles Darwin."},
+    {"question": "6. Chữ 'Thổ' (Đất) là?", "options": ["土", "士", "大", "小"], "correct_idx": 0, "explanation": "💡 土 (Tsuchi) là đất."},
+    {"question": "7. Phân tử ADN có cấu trúc?", "options": ["Xoắn kép", "Xoắn đơn", "Vòng", "Thẳng"], "correct_idx": 0, "explanation": "💡 Watson và Crick tìm ra xoắn kép."},
+    {"question": "8. Chữ 'Mễ' (Gạo) là?", "options": ["米", "来", "木", "本"], "correct_idx": 0, "explanation": "💡 米 (Kome) là gạo."},
+    {"question": "9. Nucleotide loại T chỉ có trong?", "options": ["ADN", "ARN", "Protein", "Lipid"], "correct_idx": 0, "explanation": "💡 ADN có T, ARN có U."},
+    {"question": "10. Núi cao nhất Nhật Bản?", "options": ["Phú Sĩ", "Everest", "Fansipan", "Aso"], "correct_idx": 0, "explanation": "💡 Núi Fuji (Phú Sĩ)."}
+  ],
+  "bai_5": [
+    {"question": "1. Chữ 'Nhân' (Người) là?", "options": ["入", "人", "八", "大"], "correct_idx": 1, "explanation": "💡 人 (Hito/Jin) là người."},
+    {"question": "2. Ti thể có ở loại tế bào nào?", "options": ["Nhân thực", "Nhân sơ", "Virus", "Vi khuẩn"], "correct_idx": 0, "explanation": "💡 Chỉ tế bào nhân thực mới có ti thể."},
+    {"question": "3. 'Sensei' nghĩa là gì?", "options": ["Học sinh", "Bác sĩ", "Thầy giáo", "Kỹ sư"], "correct_idx": 2, "explanation": "💡 先生 (Sensei)."},
+    {"question": "4. Chữ 'Khẩu' (Miệng) là?", "options": ["口", "日", "目", "田"], "correct_idx": 0, "explanation": "💡 口 (Kuchi) là miệng."},
+    {"question": "5. Chức năng của Ribosome?", "options": ["Tổng hợp Protein", "Tạo năng lượng", "Tiêu hóa", "Vận chuyển"], "correct_idx": 0, "explanation": "💡 Ribosome là nơi dịch mã protein."},
+    {"question": "6. Chữ 'Mục' (Mắt) là?", "options": ["口", "目", "耳", "手"], "correct_idx": 1, "explanation": "💡 目 (Me) là mắt."},
+    {"question": "7. Màng sinh chất được cấu tạo từ?", "options": ["Lớp kép Phospholipid", "Chỉ có Protein", "Chỉ có đường", "Sáp"], "correct_idx": 0, "explanation": "💡 Mô hình khảm động."},
+    {"question": "8. Chữ 'Nhĩ' (Tai) là?", "options": ["目", "耳", "口", "手"], "correct_idx": 1, "explanation": "💡 耳 (Mimi) là tai."},
+    {"question": "9. Trong ARN, A liên kết với?", "options": ["T", "U", "G", "X"], "correct_idx": 1, "explanation": "💡 A-U, G-X."},
+    {"question": "10. Thủ đô của Nhật Bản?", "options": ["Osaka", "Kyoto", "Tokyo", "Nagoya"], "correct_idx": 2, "explanation": "💡 Tokyo."}
+  ],
+  "bai_6": [
+    {"question": "1. Câu hỏi mẫu Bài 6 - Câu 1", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "2. Câu hỏi mẫu Bài 6 - Câu 2", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "3. Câu hỏi mẫu Bài 6 - Câu 3", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "4. Câu hỏi mẫu Bài 6 - Câu 4", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "5. Câu hỏi mẫu Bài 6 - Câu 5", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "6. Câu hỏi mẫu Bài 6 - Câu 6", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "7. Câu hỏi mẫu Bài 6 - Câu 7", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "8. Câu hỏi mẫu Bài 6 - Câu 8", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "9. Câu hỏi mẫu Bài 6 - Câu 9", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "10. Câu hỏi mẫu Bài 6 - Câu 10", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."}
+  ],
+  "bai_7": [
+    {"question": "1. Câu hỏi mẫu Bài 7 - Câu 1", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "2. Câu hỏi mẫu Bài 7 - Câu 2", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "3. Câu hỏi mẫu Bài 7 - Câu 3", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "4. Câu hỏi mẫu Bài 7 - Câu 4", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "5. Câu hỏi mẫu Bài 7 - Câu 5", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "6. Câu hỏi mẫu Bài 7 - Câu 6", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "7. Câu hỏi mẫu Bài 7 - Câu 7", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "8. Câu hỏi mẫu Bài 7 - Câu 8", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "9. Câu hỏi mẫu Bài 7 - Câu 9", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "10. Câu hỏi mẫu Bài 7 - Câu 10", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."}
+  ],
+  "bai_8": [
+    {"question": "1. Câu hỏi mẫu Bài 8 - Câu 1", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "2. Câu hỏi mẫu Bài 8 - Câu 2", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "3. Câu hỏi mẫu Bài 8 - Câu 3", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "4. Câu hỏi mẫu Bài 8 - Câu 4", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "5. Câu hỏi mẫu Bài 8 - Câu 5", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "6. Câu hỏi mẫu Bài 8 - Câu 6", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "7. Câu hỏi mẫu Bài 8 - Câu 7", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "8. Câu hỏi mẫu Bài 8 - Câu 8", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "9. Câu hỏi mẫu Bài 8 - Câu 9", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "10. Câu hỏi mẫu Bài 8 - Câu 10", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."}
+  ],
+  "bai_9": [
+    {"question": "1. Câu hỏi mẫu Bài 9 - Câu 1", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "2. Câu hỏi mẫu Bài 9 - Câu 2", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "3. Câu hỏi mẫu Bài 9 - Câu 3", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "4. Câu hỏi mẫu Bài 9 - Câu 4", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "5. Câu hỏi mẫu Bài 9 - Câu 5", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "6. Câu hỏi mẫu Bài 9 - Câu 6", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "7. Câu hỏi mẫu Bài 9 - Câu 7", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "8. Câu hỏi mẫu Bài 9 - Câu 8", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "9. Câu hỏi mẫu Bài 9 - Câu 9", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "10. Câu hỏi mẫu Bài 9 - Câu 10", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."}
+  ],
+  "bai_10": [
+    {"question": "1. Câu hỏi mẫu Bài 10 - Câu 1", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "2. Câu hỏi mẫu Bài 10 - Câu 2", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "3. Câu hỏi mẫu Bài 10 - Câu 3", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "4. Câu hỏi mẫu Bài 10 - Câu 4", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "5. Câu hỏi mẫu Bài 10 - Câu 5", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "6. Câu hỏi mẫu Bài 10 - Câu 6", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."},
+    {"question": "7. Câu hỏi mẫu Bài 10 - Câu 7", "options": ["A", "B", "C", "D"], "correct_idx": 2, "explanation": "Giải thích mẫu..."},
+    {"question": "8. Câu hỏi mẫu Bài 10 - Câu 8", "options": ["A", "B", "C", "D"], "correct_idx": 3, "explanation": "Giải thích mẫu..."},
+    {"question": "9. Câu hỏi mẫu Bài 10 - Câu 9", "options": ["A", "B", "C", "D"], "correct_idx": 0, "explanation": "Giải thích mẫu..."},
+    {"question": "10. Câu hỏi mẫu Bài 10 - Câu 10", "options": ["A", "B", "C", "D"], "correct_idx": 1, "explanation": "Giải thích mẫu..."}
+  ]
+}

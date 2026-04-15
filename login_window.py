@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QMessageBox
 # NHÚNG 2 MÀN HÌNH KIA VÀO ĐÂY
 from register_window import CuaSoDangKy
 from main_window import CuaSoChinh
+from quizzcode import QuizApp
 
 class CuaSoDangNhap(QtWidgets.QMainWindow):
     def __init__(self):
