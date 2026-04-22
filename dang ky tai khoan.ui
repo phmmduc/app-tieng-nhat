@@ -230,7 +230,7 @@ QPushButton:hover {
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>../assets/picture/concu.jpg</pixmap>
+             <pixmap>../../thư mục không có tiêu đề 2/Không có tiêu đề/picture/concu.jpg</pixmap>
             </property>
             <property name="scaledContents">
              <bool>true</bool>
